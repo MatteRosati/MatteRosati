@@ -1,97 +1,90 @@
 <h1 align="center">Hi 👋 I'm Matteo Rosati</h1>
 
 <h3 align="center">
-CyberSecurity Engineer • Software Developer • Automation Enthusiast
+CyberSecurity Engineer • Security Automation • Software Engineering
 </h3>
 
 <p align="center">
-Passionate about offensive security, infrastructure, scripting and software engineering.
-I enjoy building tools that automate repetitive tasks and improve security operations.
+Passionate about offensive security, infrastructure, scripting and software engineering. I enjoy building tools that automate repetitive tasks and improve security operations.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Daily-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CyberSecurity-Engineer-red?style=flat-square"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 BSc in Computer Science (University of Parma)
+🎓 **BSc in Computer Science** — University of Parma *(2022 – 2025)*
 
-🛡️ Junior CyberSecurity Engineer @ Mead Informatica
+🛡️ **CyberSecurity Engineer** @ Mead Informatica *(2025 – Present)*
 
-💻 Interested in
+I'm passionate about software engineering, infrastructure and cybersecurity.
 
-- Vulnerability Management
-- Active Directory Security
-- Threat Intelligence & OSINT
-- Automation
-- Docker & Linux
-- Software Engineering
-
-🌱 Currently learning
-
-- GRC
-- Identity & Access Management
-- Cloud Security
-- Red Team methodologies
+My daily work focuses on developing tools and automating security workflows to improve assessment activities, reduce manual effort and simplify repetitive tasks.
 
 ---
 
-## 🛠 Tech Stack
+## 💼 What I Do
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Security
-
-![Qualys](https://img.shields.io/badge/Qualys-red?style=for-the-badge)
-![Rapid7](https://img.shields.io/badge/Rapid7-black?style=for-the-badge)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-purple?style=for-the-badge)
-![Trend Micro](https://img.shields.io/badge/TrendMicro-red?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-black?style=for-the-badge)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+- 🔍 Vulnerability & Risk Management
+- 🛡 Active Directory Security Assessment
+- 🌐 Threat Intelligence & OSINT
+- 🎣 Ethical Phishing Campaigns
+- ⚙️ Security Automation & Internal Tooling
+- 💻 Software Development for CyberSecurity
 
 ---
 
-## 📂 Featured Projects
+## 🌱 Interested in
 
-🔹 OSINT Platform
-
-Automated OSINT collection platform based on Docker, RabbitMQ and PostgreSQL.
-
----
-
-🔹 Atomic Red Team Automation
-
-PowerShell automation for MITRE ATT&CK Atomic Red Team execution.
+- ☁️ Cloud Security
+- 🏛 Governance, Risk & Compliance (GRC)
+- 🔴 Red Team Methodologies
+- 🔵 Blue Team Operations
+- 🔐 Identity & Access Management
 
 ---
 
-🔹 CyberSecurity Utilities
+# 🛠 Tech Stack
 
-Collection of scripts developed to automate security activities.
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,php,js,bash"/>
+</p>
+
+## Infrastructure & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,postgres,aws"/>
+</p>
+
+## Security Platforms
+
+- Qualys VMDR
+- Rapid7 InsightVM
+- SentinelOne
+- Trend Vision One
+- Sophos
+- Microsoft Defender
+
+## Assessment & Offensive Security
+
+- PingCastle
+- Purple Knight
+- BloodHound
+- Shodan
+- Nmap
+- OSINT Framework
 
 ---
 
-## 📜 Certifications
-
-✔ Qualys VMDR
-
-✔ Trend Vision One
-
-✔ SentinelOne Technical Path
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -101,21 +94,36 @@ Collection of scripts developed to automate security activities.
 
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatteRosati&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🎯 Current Focus
 
-- Active Directory Security
-- Vulnerability Management
-- Cloud Security
-- Threat Intelligence
-- GRC
-- Security Automation
+```text
+✔ Active Directory Security
+✔ Vulnerability Management
+✔ Threat Intelligence
+✔ Security Automation
+✔ Cloud Security
+✔ Detection Engineering
+✔ Software Engineering
+```
 
 ---
 
 ## 📫 Connect with Me
 
-LinkedIn
+<p>
+<a href="https://github.com/MatteRosati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-GitHub
+<a href="https://it.linkedin.com/in/matteo-rosati-cybersec"
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
