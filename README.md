@@ -5,11 +5,12 @@ CyberSecurity Engineer • Security Automation • Software Engineering
 </h3>
 
 <p align="center">
-Passionate about offensive security, infrastructure, scripting and software engineering. I enjoy building tools that automate repetitive tasks and improve security operations.
+Passionate about offensive security, infrastructure, scripting and software engineering. 
+I enjoy building tools that automate repetitive tasks and improve security operations.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-Daily-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CyberSecurity-Engineer-red?style=flat-square"/>
@@ -34,13 +35,14 @@ Passionate about offensive security, infrastructure, scripting and software engi
 - ⚙️ Security Automation & Internal Tooling
 - 💻 Software Development for CyberSecurity
 
-## 🌱 And what i'm interested in
+## 🌱 Areas of Interest
 
 - ☁️ Cloud Security
 - 🏛 Governance, Risk & Compliance (GRC)
 - 🔴 Red Team Methodologies
 - 🔵 Blue Team Operations
 - 🔐 Identity & Access Management
+- 🕵️ Threat Intelligence & Digital Reconnaissance
 
 ---
 
@@ -73,7 +75,8 @@ Passionate about offensive security, infrastructure, scripting and software engi
 - Purple Knight
 - SharpHound & BloodHound
 - Shodan
-- OSINT Framework & Tools usage
+- OSINT Framework & Tools
+- Active Directory Security Assessment
 
 ---
 
@@ -93,6 +96,14 @@ Passionate about offensive security, infrastructure, scripting and software engi
 
 ---
 
+## 🛰️ GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatteRosati&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 ```text
@@ -103,20 +114,4 @@ Passionate about offensive security, infrastructure, scripting and software engi
 ✔ Cloud Security
 ✔ Detection Engineering
 ✔ Software Engineering
-```
-
----
-
-## 📫 Connect with Me
-
-<p>
-<a href="https://github.com/MatteRosati">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://it.linkedin.com/in/matteo-rosati-cybersec">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
----
+✔ Red Team Methodologies
