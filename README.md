@@ -19,9 +19,9 @@ Passionate about offensive security, infrastructure, scripting and software engi
 
 ## 🚀 Experience 
 
-🎓 **BSc in Computer Science** — University of Parma *(2022 – 2025)*
+🎓 **BSc in Computer Science** — University of Parma [2022 – 2025]
 
-🛡️ **CyberSecurity Engineer** @ Mead Informatica *(2025 – Present)*
+🛡️ **CyberSecurity Engineer** @ Mead Informatica [2025 – Present]
 
 ---
 
