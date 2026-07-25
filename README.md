@@ -17,15 +17,11 @@ Passionate about offensive security, infrastructure, scripting and software engi
 
 ---
 
-## 🚀 About Me
+## 🚀 Experience 
 
 🎓 **BSc in Computer Science** — University of Parma *(2022 – 2025)*
 
 🛡️ **CyberSecurity Engineer** @ Mead Informatica *(2025 – Present)*
-
-I'm passionate about software engineering, infrastructure and cybersecurity.
-
-My daily work focuses on developing tools and automating security workflows to improve assessment activities, reduce manual effort and simplify repetitive tasks.
 
 ---
 
@@ -38,9 +34,7 @@ My daily work focuses on developing tools and automating security workflows to i
 - ⚙️ Security Automation & Internal Tooling
 - 💻 Software Development for CyberSecurity
 
----
-
-## 🌱 Interested in
+## 🌱 And what i'm interested in
 
 - ☁️ Cloud Security
 - 🏛 Governance, Risk & Compliance (GRC)
@@ -77,10 +71,9 @@ My daily work focuses on developing tools and automating security workflows to i
 
 - PingCastle
 - Purple Knight
-- BloodHound
+- SharpHound & BloodHound
 - Shodan
-- Nmap
-- OSINT Framework
+- OSINT Framework & Tools usage
 
 ---
 
@@ -121,7 +114,7 @@ My daily work focuses on developing tools and automating security workflows to i
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://it.linkedin.com/in/matteo-rosati-cybersec"
+<a href="https://it.linkedin.com/in/matteo-rosati-cybersec">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
