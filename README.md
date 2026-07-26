@@ -95,11 +95,3 @@ I enjoy building tools that automate repetitive tasks and improve security opera
 </p>
 
 ---
-
-## 🛰️ GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatteRosati&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
