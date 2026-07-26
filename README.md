@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Matteo Rosati</h1>
 
 <h3 align="center">
-CyberSecurity Engineer • Security Automation • Software Engineering
+CyberSecurity Engineer & Software Engineering Enthusiast
 </h3>
 
 <p align="center">
-Passionate about offensive security, infrastructure, scripting and software engineering. 
+Passionate about offensive & defensive security, infrastructure, scripting and software engineering. 
 I enjoy building tools that automate repetitive tasks and improve security operations.
 </p>
 
@@ -103,15 +103,3 @@ I enjoy building tools that automate repetitive tasks and improve security opera
 </p>
 
 ---
-
-## 🎯 Current Focus
-
-```text
-✔ Active Directory Security
-✔ Vulnerability Management
-✔ Threat Intelligence
-✔ Security Automation
-✔ Cloud Security
-✔ Detection Engineering
-✔ Software Engineering
-✔ Red Team Methodologies
