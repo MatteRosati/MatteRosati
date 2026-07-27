@@ -48,10 +48,9 @@
 
 ## 🚀 Experience
 
-### 🛡️ Cybersecurity Engineer
+### 🎓 University of Parma - Bachelor of Science in Computer Science [2022 – 2025]
 
-**Mead Informatica**  
-2025 – Present
+### 🛡️ Mead Informatica - Cybersecurity Engineer [2025 – Present]
 
 Main areas of activity:
 
@@ -64,11 +63,6 @@ Main areas of activity:
 - Security automation and internal tooling
 - Cybersecurity-oriented software development
 - Technical reporting and security analysis
-
-### 🎓 Bachelor of Science in Computer Science
-
-**University of Parma**  
-2022 – 2025
 
 ---
 
