@@ -208,15 +208,5 @@ I am interested in collaborating on projects involving:
 - Internal security tools
 
 ---
-
-## 📫 Contact
-
-<p align="center">
-  Feel free to explore my repositories and connect with me through GitHub.
-</p>
-
----
-
-<p align="center">
   <i>Security through automation, analysis and continuous improvement.</i>
 </p>
