@@ -39,7 +39,7 @@
 
 - 🛡️ Cybersecurity Engineer interested in both offensive and defensive security
 - ⚙️ Focused on security automation, scripting and internal tooling
-- 💻 Interested in software engineering and secure software development
+- 💻 Interested in software engineering
 - 🔍 Experienced in vulnerability management, OSINT and security assessments
 - 🔐 Interested in identity security and Active Directory environments
 - 🌱 Currently expanding my knowledge of cloud security, IAM and GRC
@@ -68,14 +68,14 @@ Main areas of activity:
 
 ## 💼 What I Do
 
-- 🔍 Vulnerability Assessment and Vulnerability Management
+- 🔍 Vulnerability & Risk Management
+- 🔍 Web Application Scan & Assessment
 - 📊 Cyber Risk Analysis and Remediation Tracking
 - 🛡️ Active Directory Security Assessments
 - 🌐 Threat Intelligence and OSINT Investigations
 - 🎣 Ethical Phishing Campaigns
 - ⚙️ Security Automation and Internal Tooling
-- 💻 Software Development for Cybersecurity
-- 🔎 Endpoint Detection and Response Analysis
+- 🔎 EDR & XDR platform configuration & management
 - 📄 Security Reporting and Technical Documentation
 
 ---
@@ -86,10 +86,8 @@ Main areas of activity:
 - 🏛️ Governance, Risk and Compliance
 - 🔴 Red Team Methodologies
 - 🔵 Blue Team Operations
-- 🔐 Identity and Access Management
 - 🕵️ Threat Intelligence and Digital Reconnaissance
 - 🧩 Security Automation
-- 🏗️ Secure Software Engineering
 - 🖥️ Endpoint Security
 - 🌐 Infrastructure Security
 
@@ -117,43 +115,13 @@ Main areas of activity:
 
 ---
 
-## 🛡️ Security Platforms
+## 🛡️ Security Activities & Tools
 
-- Qualys VMDR
-- Rapid7 InsightVM
-- SentinelOne Singularity
-- Trend Micro Vision One
-- Sophos
-- Microsoft Defender
-
----
-
-## 🔍 Assessment and Offensive Security
-
-- PingCastle
-- Purple Knight
-- SharpHound
-- BloodHound
-- Shodan
-- OSINT frameworks and tools
-- Active Directory security assessment tools
-- Vulnerability assessment platforms
-- Reconnaissance and information-gathering tools
-
----
-
-## ⚙️ Security Engineering
-
-- Security workflow automation
-- Python and Bash scripting
-- REST API integrations
-- Log analysis and event correlation
-- Vulnerability remediation tracking
-- Internal security tooling
-- Endpoint security monitoring
-- Security reporting
-- Data processing and automation
-- Technical documentation
+- End-to-end vulnerability management using enterprise platforms (Qualys VMDR, Rapid7 InsightVM, Tenable One). Strategic remediation planning centered on asset criticality to preserve business continuity.
+- EDR & XDR Consoles: SentinelOne Singularity, Trend Micro Vision One, Sophos Central, Microsoft Defender & Others
+- Active Directory Security Assessment: PingCastle, PurpleKnight, SharpHound & BloodHound
+- Osint & Threat Intelligence: Following the Osint Framework, parsing the results using a tool i'm developing to improve the presentation to our customers
+- Custom Ethical Phishing Campaigns
 
 ---
 
