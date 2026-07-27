@@ -191,22 +191,3 @@ Main areas of activity:
 </p>
 
 ---
-
-## 🤝 Collaboration
-
-I am interested in collaborating on projects involving:
-
-- Cybersecurity automation
-- Vulnerability management
-- Threat intelligence
-- OSINT tooling
-- Active Directory security
-- Defensive security
-- Endpoint security
-- Security-oriented software development
-- API integrations
-- Internal security tools
-
----
-  <i>Security through automation, analysis and continuous improvement.</i>
-</p>
