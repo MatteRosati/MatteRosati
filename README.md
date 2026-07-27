@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  I enjoy building tools that automate repetitive tasks and improve
-  security operations.
+  I enjoy building tools that automate repetitive tasks,
+  improve security operations and simplify technical workflows.
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
     alt="Docker"
   />
   <img
-    src="https://img.shields.io/badge/Cybersecurity-Engineer-red?style=flat-square"
+    src="https://img.shields.io/badge/Cybersecurity-Engineer-CB2D3E?style=flat-square"
     alt="Cybersecurity Engineer"
   />
 </p>
@@ -37,10 +37,11 @@
 
 ## 👨‍💻 About Me
 
-- 🛡️ Cybersecurity Engineer with an interest in both offensive and defensive security
+- 🛡️ Cybersecurity Engineer interested in both offensive and defensive security
 - ⚙️ Focused on security automation, scripting and internal tooling
 - 💻 Interested in software engineering and secure software development
 - 🔍 Experienced in vulnerability management, OSINT and security assessments
+- 🔐 Interested in identity security and Active Directory environments
 - 🌱 Currently expanding my knowledge of cloud security, IAM and GRC
 
 ---
@@ -55,12 +56,14 @@
 Main areas of activity:
 
 - Vulnerability and risk management
+- Vulnerability remediation tracking
 - Active Directory security assessments
 - Threat intelligence and OSINT
 - Ethical phishing campaigns
 - Endpoint security and EDR platforms
 - Security automation and internal tooling
 - Cybersecurity-oriented software development
+- Technical reporting and security analysis
 
 ### 🎓 Bachelor of Science in Computer Science
 
@@ -79,6 +82,7 @@ Main areas of activity:
 - ⚙️ Security Automation and Internal Tooling
 - 💻 Software Development for Cybersecurity
 - 🔎 Endpoint Detection and Response Analysis
+- 📄 Security Reporting and Technical Documentation
 
 ---
 
@@ -92,6 +96,8 @@ Main areas of activity:
 - 🕵️ Threat Intelligence and Digital Reconnaissance
 - 🧩 Security Automation
 - 🏗️ Secure Software Engineering
+- 🖥️ Endpoint Security
+- 🌐 Infrastructure Security
 
 ---
 
@@ -137,6 +143,8 @@ Main areas of activity:
 - Shodan
 - OSINT frameworks and tools
 - Active Directory security assessment tools
+- Vulnerability assessment platforms
+- Reconnaissance and information-gathering tools
 
 ---
 
@@ -144,12 +152,25 @@ Main areas of activity:
 
 - Security workflow automation
 - Python and Bash scripting
-- API integrations
+- REST API integrations
 - Log analysis and event correlation
 - Vulnerability remediation tracking
 - Internal security tooling
 - Endpoint security monitoring
 - Security reporting
+- Data processing and automation
+- Technical documentation
+
+---
+
+## 📂 Current Focus
+
+- Building security automation tools
+- Improving vulnerability management workflows
+- Developing internal cybersecurity utilities
+- Exploring cloud and identity security
+- Strengthening software engineering practices
+- Integrating security platforms through APIs
 
 ---
 
@@ -157,22 +178,8 @@ Main areas of activity:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MatteRosati&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Matteo Rosati's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=MatteRosati&theme=tokyonight&hide_border=true"
     alt="Matteo Rosati's GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteRosati&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Matteo Rosati's most used languages"
   />
 </p>
 
@@ -195,7 +202,18 @@ I am interested in collaborating on projects involving:
 - OSINT tooling
 - Active Directory security
 - Defensive security
+- Endpoint security
 - Security-oriented software development
+- API integrations
+- Internal security tools
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  Feel free to explore my repositories and connect with me through GitHub.
+</p>
 
 ---
 
