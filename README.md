@@ -10,11 +10,6 @@
 </p>
 
 <p align="center">
-  I enjoy building tools that automate repetitive tasks,
-  improve security operations and simplify technical workflows.
-</p>
-
-<p align="center">
   <img
     src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white"
     alt="Python"
