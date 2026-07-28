@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matteo Rosati</h1>
 
 <h3 align="center">
-  Cybersecurity Engineer & Software Engineering Enthusiast
+  Cybersecurity Specialist & Software Engineering Enthusiast
 </h3>
 
 <p align="center">
-  Passionate about offensive and defensive security, infrastructure,
-  scripting and software engineering.
+  Passionate about offensive and defensive security, infrastructure, scripting and software engineering. 
 </p>
 
 <p align="center">
@@ -30,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🛡️ Cybersecurity Engineer interested in both offensive and defensive security
 - ⚙️ Focused on security automation, scripting and internal tooling
@@ -41,11 +40,11 @@
 
 ---
 
-## 🚀 Experience
+## Experience
 
 ### 🎓 University of Parma - Bachelor of Science in Computer Science [2022 – 2025]
 
-### 🛡️ Mead Informatica - Cybersecurity Engineer [2025 – Present]
+### 🛡️ Mead Informatica - Cybersecurity Specialist [2025 – Present]
 
 Main areas of activity:
 
@@ -61,7 +60,7 @@ Main areas of activity:
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 - 🔍 Vulnerability & Risk Management
 - 🔍 Web Application Scan & Assessment
@@ -72,23 +71,21 @@ Main areas of activity:
 - ⚙️ Security Automation and Internal Tooling
 - 🔎 EDR & XDR platform configuration & management
 - 📄 Security Reporting and Technical Documentation
+- 🖥️ Endpoint & Infrastructure Security
 
 ---
 
-## 🌱 Areas of Interest
+## Areas of Interest
 
 - ☁️ Cloud Security
 - 🏛️ Governance, Risk and Compliance
 - 🔴 Red Team Methodologies
 - 🔵 Blue Team Operations
 - 🕵️ Threat Intelligence and Digital Reconnaissance
-- 🧩 Security Automation
-- 🖥️ Endpoint Security
-- 🌐 Infrastructure Security
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming and Scripting
 
@@ -110,28 +107,18 @@ Main areas of activity:
 
 ---
 
-## 🛡️ Security Activities & Tools
+## Security Activities & Tools
 
 - End-to-end vulnerability management using enterprise platforms (Qualys VMDR, Rapid7 InsightVM, Tenable One). Strategic remediation planning centered on asset criticality to preserve business continuity.
-- EDR & XDR Consoles: SentinelOne Singularity, Trend Micro Vision One, Sophos Central, Microsoft Defender & Others
-- Active Directory Security Assessment: PingCastle, PurpleKnight, SharpHound & BloodHound
-- Osint & Threat Intelligence: Following the Osint Framework, parsing the results using a tool i'm developing to improve the presentation to our customers
-- Custom Ethical Phishing Campaigns
+- Web Application Security Assessment using Qualys Web Application Scan and Rapid7 Insight AppSec.
+- EDR & XDR Consoles management: SentinelOne Singularity, Trend Micro Vision One, Sophos Central, Microsoft Defender & Others.
+- Active Directory Security Assessment: PingCastle, PurpleKnight, SharpHound & BloodHound.
+- Osint & Threat Intelligence: Following the Osint Framework, parsing the results using a tool i'm developing to improve the presentation to our customers.
+- Custom Ethical Phishing Campaigns.
 
 ---
 
-## 📂 Current Focus
-
-- Building security automation tools
-- Improving vulnerability management workflows
-- Developing internal cybersecurity utilities
-- Exploring cloud and identity security
-- Strengthening software engineering practices
-- Integrating security platforms through APIs
-
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
@@ -149,7 +136,7 @@ Main areas of activity:
 
 ---
 
-## 📫 Contact
+## Get in touch
 
 <p align="center">
   <a href="https://it.linkedin.com/in/matteo-rosati-cybersec">
