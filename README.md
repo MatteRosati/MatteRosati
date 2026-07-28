@@ -32,11 +32,11 @@
 ## About Me
 
 - 🛡️ Cybersecurity Engineer interested in both offensive and defensive security
-- ⚙️ Focused on security automation, scripting and internal tooling
+- 🔍 Working on security and risk assessment
+- ⚙️ Interested on security automation, scripting and internal tooling
 - 💻 Interested in software engineering
-- 🔍 Experienced in vulnerability management, OSINT and security assessments
 - 🔐 Interested in identity security and Active Directory environments
-- 🌱 Currently expanding my knowledge of cloud security, IAM and GRC
+- 🌱 Working on expanding my knowledge of cloud security, IAM and GRC
 
 ---
 
