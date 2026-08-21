@@ -122,13 +122,6 @@ Main areas of activity:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=MatteRosati&theme=tokyonight&hide_border=true"
-    alt="Matteo Rosati's GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MatteRosati&theme=tokyo-night&hide_border=true"
     alt="Matteo Rosati's GitHub activity graph"
   />
