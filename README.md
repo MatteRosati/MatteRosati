@@ -85,28 +85,6 @@ Main areas of activity:
 
 ---
 
-## Tech Stack
-
-### Programming and Scripting
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,php,js,bash"
-    alt="Python, C++, PHP, JavaScript and Bash"
-  />
-</p>
-
-### Infrastructure, DevOps and Databases
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=linux,docker,git,postgres,aws"
-    alt="Linux, Docker, Git, PostgreSQL and AWS"
-  />
-</p>
-
----
-
 ## Security Activities & Tools
 
 - End-to-end vulnerability management using enterprise platforms (Qualys VMDR, Rapid7 InsightVM, Tenable One). Strategic remediation planning centered on asset criticality to preserve business continuity.
@@ -115,17 +93,6 @@ Main areas of activity:
 - Active Directory Security Assessment: PingCastle, PurpleKnight, SharpHound & BloodHound.
 - Osint & Threat Intelligence: Following the Osint Framework, parsing the results using a tool i'm developing to improve the presentation to our customers.
 - Custom Ethical Phishing Campaigns.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MatteRosati&theme=tokyo-night&hide_border=true"
-    alt="Matteo Rosati's GitHub activity graph"
-  />
-</p>
 
 ---
 
