@@ -46,21 +46,9 @@
 
 ### 🛡️ Mead Informatica - Cybersecurity Specialist [2025 – Present]
 
-Main areas of activity:
-
-- Vulnerability and risk management
-- Vulnerability remediation tracking
-- Active Directory security assessments
-- Threat intelligence and OSINT
-- Ethical phishing campaigns
-- Endpoint security and EDR platforms
-- Security automation and internal tooling
-- Cybersecurity-oriented software development
-- Technical reporting and security analysis
-
 ---
 
-## What I Do
+## Main areas of activity:
 
 - 🔍 Vulnerability & Risk Management
 - 🔍 Web Application Scan & Assessment
