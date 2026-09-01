@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Rosati</h1>
 
 <h3 align="center">
-  Cybersecurity Specialist & Software Engineering Enthusiast
+  Cybersecurity Specialist based in Italy
 </h3>
 
 <p align="center">
